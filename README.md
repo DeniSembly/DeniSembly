@@ -10,7 +10,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSh33l4r&hide=javascript,css,scss,html&theme=tokyonight)
+  [![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisSh33l4r&count_private=true)](https://github.com/arribass/github-readme-stats)
+  [![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisSh33l4r)](https://github.com/arribass/github-readme-stats)
 </div>
 
 ## 🏆 Coding Profiles
